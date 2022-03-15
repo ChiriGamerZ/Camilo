@@ -1,0 +1,16 @@
+.contenedor-columnas{
+    width: 200%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.columnax3{
+    width: 100%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+.caja img{
+    margin-left: auto;
+    margin-right: auto;
+}
